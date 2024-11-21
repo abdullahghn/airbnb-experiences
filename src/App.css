@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.gray {
+  color: #918E9B;
+}
+
+nav{
+  padding: 20px 40px;
+  box-shadow: 0px 0px 5px 2px #dfdfdf;
+}
+
+.hero img {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.hero h1{
+  font-size: 2.2em;
+  margin-left: 40px;
+}
+
+.hero p {
+  font-size: 1.1em;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.cards {
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-bottom: 50px;
+  display: inline-flex;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.stats img {
+  height: 18px;
+}
+
+.title {
+  margin: 10px 0;
+}
